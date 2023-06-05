@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science 
 - 🌱 I’m currently study at University of Pennsylvania
 - 💞️ I’m looking to collaborate on ...
-- 📫 My email: xhz@ucla.edu
+- 📫 My email: xuanhe95@gmail.com
 
 欢迎访问我的项目：   
 ## 💠 [BlockBuilder](https://github.com/xuanhe95/GenericBuilder)    
