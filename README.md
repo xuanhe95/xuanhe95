@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Xhander Zhang
 - 🌱 I’m interested in Computer Science 
-- 📖 I’m currently study at University of Pennsylvania
+- 🏫 I’m currently study at University of Pennsylvania
+- 📖 My LeetCode page: https://leetcode.com/xuanhe95/
 - 📫 My email: xuanhe95@gmail.com
 ---
 欢迎访问我的项目：   
@@ -11,7 +12,10 @@
 ## 🍿️ [PnetPhlix](https://github.com/xuanhe95/PnetPhlix)    
 一个电影推荐系统，根据用户的历史访问内容通过数据库为用户推荐合适的电影。   
 ## 🗺️ [QuakeMap](https://github.com/xuanhe95/QuakeMap)     
-一个GUI地震地图，实时显示当前世界上发生的地震，并计算其可能影响的城市。    
+一个GUI地震地图，实时显示当前世界上发生的地震，并计算其可能影响的城市。  
+
+
+
 
 <!---
 xuanhe95/xuanhe95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
