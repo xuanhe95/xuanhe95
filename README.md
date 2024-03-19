@@ -7,7 +7,7 @@
 欢迎访问我的项目：   
 ## 💠 [BlockBuilder](https://github.com/xuanhe95/GenericBuilder)    
 一个基于Unity的建造游戏，通过鼠标点击建造有规律的方块模型！      
-## 🧑‍⚕️[CovidTracker](https://github.com/xuanhe95/CIT594_CovidTracker)
+## 🏥 [CovidTracker](https://github.com/xuanhe95/CIT594_CovidTracker)
 一个Covid疫苗接种的资料库，根据CSV和JSON分析各个地区的每日疫苗接种状况。
 ## 🎲 [PeachParty](https://github.com/xuanhe95/PeachParty)    
 一个大富翁类游戏，两名玩家收集金币与星星，并躲避库巴王和嘘嘘鬼！
