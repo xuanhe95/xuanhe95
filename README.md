@@ -5,6 +5,10 @@
 - 📫 My email: xuanhe95@gmail.com
 ---
 欢迎访问我的项目：   
+
+## 🔍[Noova](https://github.com/xuanhe95/noova)
+一个分布式搜索引擎，实现了HTTP Server，分布式框架，爬虫，及索引。
+
 ## 💠 [BlockBuilder](https://github.com/xuanhe95/GenericBuilder)    
 一个基于Unity的建造游戏，通过鼠标点击建造有规律的方块模型！     
 
